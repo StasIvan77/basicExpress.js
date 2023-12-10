@@ -41,4 +41,4 @@ Installation
 
 # Optional (Bonus)
 
-Write tests for your API using a testing framework like Mocha to ensure the correctness of your routes and middleware.
+Tests for API using a testing framework like Mocha to ensure the correctness of routes and middleware.
